@@ -1,0 +1,35 @@
+-BackTracking
+---Divide and Conquer
+-Dynamic Programming
+---Greedy
+Memoization
+MiniMax
+---Sliding Window
+-Two Pointers
+String
+---Design
+Matrix
+
+--Graph
+--Tree
+--Tier
+--Heap
+--Queue
+--Stack
+--Hash Table
+--Linked List
+--Sort
+--Array
+
+Binary Search
+Binary Search Tree
+---Union Find
+---Topological Sort
+DFS
+BFS
+
+
+
+easy - 407 - 30%
+medium - 743 - 50%
+hard - 303 - 20%
